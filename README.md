@@ -1,2 +1,2 @@
 # helloworld
-Sample program
+Sample program - Classic program for beginners !
